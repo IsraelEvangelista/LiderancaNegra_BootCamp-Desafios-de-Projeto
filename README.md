@@ -1,4 +1,4 @@
-# Liderança Negra - BootCamp
+# Liderança Negra - BootCamp DIO
 Trainee Grupo Carrefour Brasil
 
 <div align="center">
